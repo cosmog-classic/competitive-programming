@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "de71a89b6c8c88e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c99b3080458e28db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b63ef7b3ec286d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/templates/Daily Notes Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily Notes Template"
+            }
+          },
+          {
+            "id": "ea4c670a336cb6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/templates/Problem Analysis Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Problem Analysis Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3abcb1d0e1ece9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "33707a32ce29fdb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d70210734b00b277",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d84a9bf1301b0cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8f31a16186c85169",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "right": {
+    "id": "c22287f913f8b46f",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ef7da721c46473",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1674b5ef76f8d28",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "83007adba95ad937",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Main Notes/Bohr's Atomic Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bohr's Atomic Model"
+            }
+          },
+          {
+            "id": "f604757209af90e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "adcd4ea76800bfc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Main Notes/Bohr's Atomic Model.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bohr's Atomic Model"
+            }
+          },
+          {
+            "id": "a6e730061e0c7da3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Main Notes/Bohr's Atomic Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bohr's Atomic Model"
+            }
+          }
+        ]
+      },
+      {
+        "id": "decddc2bf73b452c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6111a84341a905f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notes/templates/Daily Notes Template.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.45050811767578125,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Daily Notes Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "2b63ef7b3ec286d8",
+  "lastOpenFiles": [
+    "notes/templates/Problem Analysis Template.md",
+    "notes/templates/Daily Notes Template.md",
+    "resources/downloads",
+    "resources/books",
+    "resources",
+    "notes/templates",
+    "notes/04-resources",
+    "notes/03-learning-journal",
+    "notes/01-algorithms",
+    "notes/02-problem-solving",
+    "notes/ 01-algorithms",
+    "src/practice",
+    "2 - Rough Notes/integrated-schedule.md",
+    "2 - Rough Notes/Time Table.md",
+    "2 - Rough Notes/integrated-schedule(1).md",
+    "2 - Rough Notes/Books to Read (Mathematics).md",
+    "2 - Rough Notes/IOI+IAIO.md",
+    "1 - Main Notes/NTP.md",
+    "1 - Main Notes/Rules of Oxidation and Reduction.md",
+    "1 - Main Notes/Dalton's Law of Partial Pressure.md",
+    "1 - Main Notes/Planck's constant.md",
+    "1 - Main Notes/Origin of Hydrogen Spectra.md",
+    "1 - Main Notes/Graham's  Law of Diffusion of Gases.md",
+    "1 - Main Notes/Rutherford's Scattering Experiment (Nuclear Model).md",
+    "1 - Main Notes/Limiting Reagent.md",
+    "1 - Main Notes/Oxidation and Reduction.md",
+    "3 - Indexes/Chemistry.md",
+    "1 - Main Notes/Boyle's Law.md",
+    "6 - Images/Graphical-Representation-of-Boyles-Law-1024x462.png",
+    "5 - Templates/Subscript Template.md",
+    "1 - Main Notes/Untitled 1.md",
+    "3 - Indexes/Physics.md",
+    "1 - Main Notes/Bohr's Atomic Model.md",
+    "4 - Tags/States of Matter.md",
+    "4 - Tags/Gaseous State.md",
+    "1 - Main Notes/Origin Hydrogen Spectra.md",
+    "4 - Tags/Physical Chemistry.md",
+    "6 - Images/alpha ray scattering diagram.png"
+  ]
+}
