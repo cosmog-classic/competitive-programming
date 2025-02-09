@@ -1,19 +1,13 @@
 # Zed specific
-.zed/workspace.json
-
+.zed/
 # Obsidian specific
-.obsidian/workspace
-.obsidian/cache
-.obsidian/snippets
-
+.obsidian/
 # Compiled files
 *.exe
 *.out
 *.o
-
 # System files
 .DS_Store
 Thumbs.db
-
 # IDE specific
 .vscode/

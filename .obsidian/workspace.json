@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/templates/Daily Notes Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daily Notes Template"
+              "title": "README"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/templates/Daily Notes Template.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Daily Notes Template"
+              "title": "Graph of README"
             }
           }
         ]
@@ -253,8 +253,8 @@
   },
   "active": "2b63ef7b3ec286d8",
   "lastOpenFiles": [
-    "notes/templates/Problem Analysis Template.md",
     "notes/templates/Daily Notes Template.md",
+    "notes/templates/Problem Analysis Template.md",
     "resources/downloads",
     "resources/books",
     "resources",
